@@ -99,18 +99,18 @@
 
 ---
 
-### 青稞Tea(https://lu.ma/user/qingke)
+### [青稞Tea](https://lu.ma/user/qingke)
 
-- 2025.08.24 LLM RL & RL Infra
+#### 2025.08.24 LLM RL & RL Infra
 
 |                      嘉宾                      |                             主题                             |                             PPT                              | 直播/回放观看链接 |
 | :--------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------: |
-|      方佳瑞，Software Engineer, Bytedance      | [verl](https://github.com/volcengine/verl): an Open-Source Large-Scale LLM RL Framework for Agentic Tasks | [link](http://qingkeai.online//upload/pdf/20250824/verl.pdf) |                   |
-|             熊绍潘，ROLL 核心作者              | [ROLL](https://github.com/alibaba/ROLL): Reinforcement Learning Optimization for Large-scale Learning | [link1](http://qingkeai.online//upload/pdf/20250824/roll.pdf) [link2]() |                   |
-|               张宇臣，清华博士生               | 大模型推理强化学习的[熵机制](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) | [link](http://qingkeai.online//upload/pdf/20250824/Entropy.pdf) |                   |
-|       傅炜，清华大学交叉信息研究院博士生       | [AReaL]( https://github.com/inclusionAI/AReaL) : A Large-Scale Asynchronous Reinforcement Learning System for *Agentic Workflows* | [link](http://qingkeai.online//upload/pdf/20250824/AReaL.pdf) |                   |
-| 张晗，阶跃星辰研究员、清华大学交叉信息学院博士 | [RLite](https://github.com/rlite-project/RLite)：用20行代码从头写强化学习 | [link](http://qingkeai.online//upload/pdf/20250824/RLite.pdf) |                   |
-|         Jian Hu，OpenRLHF 开源项目作者         | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): Usability-Oriented RL Training  form the RLHFer's Perspective | [link1](http://qingkeai.online//upload/pdf/20250824/OpenRLHF.pdf) [link2](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit) |                   |
+|      方佳瑞，Software Engineer, Bytedance      | [verl](https://github.com/volcengine/verl): an Open-Source Large-Scale LLM RL Framework for Agentic Tasks | [link](http://qingkeai.online/upload/pdf/20250824/verl.pdf)  |                   |
+|             熊绍潘，ROLL 核心作者              | [ROLL](https://github.com/alibaba/ROLL): Reinforcement Learning Optimization for Large-scale Learning | [link1](http://qingkeai.online/upload/pdf/20250824/roll.pdf) [link2]() |                   |
+|               张宇臣，清华博士生               | 大模型推理强化学习的[熵机制](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) | [link](http://qingkeai.online/upload/pdf/20250824/Entropy.pdf) |                   |
+|       傅炜，清华大学交叉信息研究院博士生       | [AReaL]( https://github.com/inclusionAI/AReaL) : A Large-Scale Asynchronous Reinforcement Learning System for *Agentic Workflows* | [link](http://qingkeai.online/upload/pdf/20250824/AReaL.pdf) |                   |
+| 张晗，阶跃星辰研究员、清华大学交叉信息学院博士 | [RLite](https://github.com/rlite-project/RLite)：用20行代码从头写强化学习 | [link](http://qingkeai.online/upload/pdf/20250824/RLite.pdf) |                   |
+|         Jian Hu，OpenRLHF 开源项目作者         | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): Usability-Oriented RL Training  form the RLHFer's Perspective | [link1](http://qingkeai.online/upload/pdf/20250824/OpenRLHF.pdf) [link2](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit) |                   |
 
 
 

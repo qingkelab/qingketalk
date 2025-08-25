@@ -6,10 +6,10 @@
 
 ---
 
-### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  | [PPT（提取码: r86c）](https://pan.baidu.com/s/1ZVuREC_81S6jPRYIkYvq_Q?pwd=r86c#list/path=%2F%E9%9D%92%E7%A8%9ETalk&parentPath=%2F)｜[订阅直播日历](https://calendar.google.com/calendar/embed?src=387214b6dc28bfd6dd8a798f502779291b776034e149b782eb52ce35a6e4f22d%40group.calendar.google.com&ctz=Asia%2FSingapore) ｜[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
+### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  | [PPT（提取码: r86c）](https://pan.baidu.com/s/1ZVuREC_81S6jPRYIkYvq_Q?pwd=r86c#list/path=%2F%E9%9D%92%E7%A8%9ETalk&parentPath=%2F)｜[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
 - [青稞Talk](#青稞talk)
-- [青稞Tea](https://lu.ma/user/qingke)
+- [青稞Tea](#青稞Tea)
 - [经典大模型公开课第二季](#经典大模型公开课第二季)
 - [合作进群](#合作进群)
 - [支持青稞社区](#支持青稞社区)
@@ -96,6 +96,23 @@
 | 2024.04.15 |        清华大学自然语言处理实验室（THUNLP）博士后钱忱        | [ChatDev](https://github.com/OpenBMB/ChatDev)——大语言模型驱动的多智能体协作与演化 | [H5](https://hcqnc.xetlk.com/sl/dsPB6) [YouTube](https://youtu.be/AJO3jVtXJmo) | [link](https://qingkeai.online/upload/pdf/20240415.pdf) |
 | 2024.04.10 |            慕尼黑工业大学视觉计算实验室博士陈振宇            | [SceneTex](https://github.com/daveredrum/SceneTex)：高质量三维室内场景纹理图生成 | [H5](https://hcqnc.xetlk.com/sl/FD3Yf) [YouTube](https://youtu.be/-sRMm-cWKD4) | [link](https://qingkeai.online/upload/pdf/20240410.pdf) |
 | 2024.03.02 | DeepFaceLab(累计60,000 +⭐️)作者小黑兔<br />InstantID(huggingface space周榜第一)作者王浩帆<br />剑桥大学计算机系在读博士Andi Zhang<br />VBench 第一作者、南洋理工大学MMLab在读博士黄子琪 |                 Sora迷思，AIGC的微积分时刻?                  |           [H5](https://hcqnc.xetlk.com/sl/3aRykI)            |                                                         |
+
+---
+
+### 青稞Tea(https://lu.ma/user/qingke)
+
+- 2025.08.24 LLM RL & RL Infra
+
+|                      嘉宾                      |                             主题                             |                             PPT                              | 直播/回放观看链接 |
+| :--------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------: |
+|      方佳瑞，Software Engineer, Bytedance      | [verl](https://github.com/volcengine/verl): an Open-Source Large-Scale LLM RL Framework for Agentic Tasks | [link](http://qingkeai.online//upload/pdf/20250824/verl.pdf) |                   |
+|             熊绍潘，ROLL 核心作者              | [ROLL](https://github.com/alibaba/ROLL): Reinforcement Learning Optimization for Large-scale Learning | [link1](http://qingkeai.online//upload/pdf/20250824/roll.pdf) [link2]() |                   |
+|               张宇臣，清华博士生               | 大模型推理强化学习的[熵机制](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) | [link](http://qingkeai.online//upload/pdf/20250824/Entropy.pdf) |                   |
+|       傅炜，清华大学交叉信息研究院博士生       | [AReaL]( https://github.com/inclusionAI/AReaL) : A Large-Scale Asynchronous Reinforcement Learning System for *Agentic Workflows* | [link](http://qingkeai.online//upload/pdf/20250824/AReaL.pdf) |                   |
+| 张晗，阶跃星辰研究员、清华大学交叉信息学院博士 | [RLite](https://github.com/rlite-project/RLite)：用20行代码从头写强化学习 | [link](http://qingkeai.online//upload/pdf/20250824/RLite.pdf) |                   |
+|         Jian Hu，OpenRLHF 开源项目作者         | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): Usability-Oriented RL Training  form the RLHFer's Perspective | [link1](http://qingkeai.online//upload/pdf/20250824/OpenRLHF.pdf) [link2](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit) |                   |
+
+
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  | [PPT（提取码: r86c）](https://pan.baidu.com/s/1ZVuREC_81S6jPRYIkYvq_Q?pwd=r86c#list/path=%2F%E9%9D%92%E7%A8%9ETalk&parentPath=%2F)｜[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
+### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  |[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
 - [青稞Talk](#青稞talk)
 - [青稞Tea](#青稞Tea)
@@ -108,6 +108,7 @@
 |      方佳瑞，Software Engineer, Bytedance      | [verl](https://github.com/volcengine/verl): an Open-Source Large-Scale LLM RL Framework for Agentic Tasks | [link](http://qingkeai.online/upload/pdf/20250824/verl.pdf)  |                   |
 |             熊绍潘，ROLL 核心作者              | [ROLL](https://github.com/alibaba/ROLL): Reinforcement Learning Optimization for Large-scale Learning | [link1](http://qingkeai.online/upload/pdf/20250824/ROLL.pdf) [link2]() |                   |
 |               张宇臣，清华博士生               | 大模型推理强化学习的[熵机制](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) | [link](http://qingkeai.online/upload/pdf/20250824/Entropy.pdf) |                   |
+|              Jerry Xiao，Gradient              | Echo: Decoupling Inference and Training for Large-Scale RL Alignment on Heterogeneous Swarms | [link](http://qingkeai.online/upload/pdf/20250824/e cho.pdf) |                   |
 |       傅炜，清华大学交叉信息研究院博士生       | [AReaL]( https://github.com/inclusionAI/AReaL) : A Large-Scale Asynchronous Reinforcement Learning System for *Agentic Workflows* | [link](http://qingkeai.online/upload/pdf/20250824/AReaL.pdf) |                   |
 | 张晗，阶跃星辰研究员、清华大学交叉信息学院博士 | [RLite](https://github.com/rlite-project/RLite)：用20行代码从头写强化学习 | [link](http://qingkeai.online/upload/pdf/20250824/RLite.pdf) |                   |
 |         Jian Hu，OpenRLHF 开源项目作者         | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): Usability-Oriented RL Training  form the RLHFer's Perspective | [link1](http://qingkeai.online/upload/pdf/20250824/OpenRLHF.pdf) [link2](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit) |                   |

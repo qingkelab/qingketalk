@@ -115,14 +115,14 @@
 
 #### 2025.07.13 [LLM Infra & Distributed Inference](https://lu.ma/x1wfp3kj)
 
-|                             嘉宾                             |                             主题                             | PPT  | 直播/回放观看链接 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :---------------: |
-|                    章明星，清华大学副教授                    |              KTransformers: 高效的异构推理技术               |      |                   |
-| 龚睿昊，商汤科技副总监、商汤科技研究院大模型工具体系团队负责人 |       LightLLM & LightX2V：超轻量高性能推理框架的探索        |      |                   |
-|         游凯超，清华大学博士生、vLLM Core Maintainer         |     vLLM: Easy, Fast, and Cheap LLM Serving for Everyone     |      |                   |
-|                  张桓睿，Ritual Foundation                   |        Ritual Chain：让 AI 计算像 Git Commit 一样可证        |      |                   |
-|            杨军，英伟达AI计算架构部门高级技术总监            | Fast, Flexible, Open: The New PyTorch Architecture of TensorRT-LLM |      |                   |
-|                    鲍科，SGLang核心开发者                    | SGLang: An Efficient Open-Source Framework for Large-Scale LLM Serving |      |                   |
+|                             嘉宾                             |                             主题                             |                             PPT                              | 直播/回放观看链接 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------: |
+|                    章明星，清华大学副教授                    |              KTransformers: 高效的异构推理技术               | [link](http://qingkeai.online/upload/pdf/20250713/KTransformers.pdf) |                   |
+| 龚睿昊，商汤科技副总监、商汤科技研究院大模型工具体系团队负责人 |       LightLLM & LightX2V：超轻量高性能推理框架的探索        | [link](http://qingkeai.online/upload/pdf/20250713/LightLLM.pdf) |                   |
+|         游凯超，清华大学博士生、vLLM Core Maintainer         |     vLLM: Easy, Fast, and Cheap LLM Serving for Everyone     | [link](http://qingkeai.online/upload/pdf/20250713/vllm.pdf)  |                   |
+|                  张桓睿，Ritual Foundation                   |        Ritual Chain：让 AI 计算像 Git Commit 一样可证        | [link](http://qingkeai.online/upload/pdf/20250713/Ritual.pdf) |                   |
+|            杨军，英伟达AI计算架构部门高级技术总监            | Fast, Flexible, Open: The New PyTorch Architecture of TensorRT-LLM | [link](http://qingkeai.online/upload/pdf/20250713/TRTLLM.pdf) |                   |
+|                    鲍科，SGLang核心开发者                    | SGLang: An Efficient Open-Source Framework for Large-Scale LLM Serving | [link](http://qingkeai.online/upload/pdf/20250713/SGLang.pdf) |                   |
 
 ---
 

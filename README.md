@@ -20,6 +20,8 @@
 
 |  直播时间  |                            主讲人                            |                             主题                             |                      直播/回放观看链接                       |                             PPT                              |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.10.21 |                     清华大学博士生张开颜                     | [RL for LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)：探讨面向推理模型的 RL 最新研究 |           [H5](https://hcqnc.xetlk.com/sl/3oNjYs)            |                                                              |
+| 2025.10.18 |            伊利诺伊大学香槟分校 (UIUC) 博士生钱成            | [UserRL](https://github.com/SalesforceAIResearch/UserRL) & [UserBench](https://github.com/SalesforceAIResearch/UserBench)-“知人者智”：以用户为中心的智能体交互与训练 |            [H5](https://hcqnc.xetlk.com/sl/p97HA)            |                                                              |
 | 2025.09.18 |                  新加坡国立大学博士生张桂彬                  | [从 LLM-RL 到 Agentic RL：如何让语言模型成为自主智能体](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) | [H5](https://hcqnc.mk.xet.citv.cn/sl/1opkSQ)  [YouTube](https://youtu.be/CGIGlALTZ5o?list=PL0etcga8W9k1Q6RoVQTRtQyxdofg5RU_D) [Bilibili](https://www.bilibili.com/video/BV1sxWgzUEZo?t=1.9) |   [link](https://qingkeai.online/upload/pdf/20250918.pdf)    |
 | 2025.09.09 |                    香港中文大学王鸿儒博士                    | Theory of Agent: From Definition, to Behavior and Objective  | [H5](https://hcqnc.hk.xet.citv.cn/sl/1tlfin) [YouTube](https://youtu.be/ceV-LUDwm5M?list=PL0etcga8W9k1Q6RoVQTRtQyxdofg5RU_D) | [link1](https://hrwise-nlp.github.io/assets/pdf/talks/ToA_29_June_2025.pdf) [link2](https://qingkeai.online/upload/pdf/20250909.pdf) |
 | 2025.09.06 | 英伟达NeMo团队高级深度学习算法工程师李之愈，以及高级产品经理高文雯 | [NeMo RL](https://github.com/NVIDIA-NeMo/RL)：让大规模 MoE 模型权重 Refit 加速 10 倍 | [H5](https://qingkeai.online/archives/Zn9bKeVw) [YouTube](https://youtu.be/HTw6862Rl-Y?list=PL0etcga8W9k1Q6RoVQTRtQyxdofg5RU_D) |   [link](https://qingkeai.online/upload/pdf/20250906.pdf)    |
@@ -134,7 +136,7 @@
 
 ### 支持青稞社区
 
-| ![](asset/image.png) | [![Star History Chart](https://api.star-history.com/svg?repos=qingkelab/qingkelab.github.io&type=Date)](https://www.star-history.com/#qingkelab/qingkelab.github.io&Date) |
-| :------------: | :----------------------------------------------------------: |
-|  赞助青稞社区  |                          Star🌟 一下                          |
+| ![](asset/image.png) |
+| :------------: |
+|  赞助青稞社区  |
 

@@ -11,7 +11,7 @@
 - [青稞Talk](#青稞talk)
 - [青稞Tea](https://github.com/qingkelab/qingketea)
 - [经典大模型公开课第二季](#经典大模型公开课第二季)
-- [合作进群](#合作进群)
+- [合作进群](#进群)
 - [加入青稞社区·知识星球](https://wx.zsxq.com/group/88882225285222)
 
 ---
@@ -142,8 +142,8 @@
 
 ---
 
-### 合作进群
+### 进群
 
-|           ![合作](asset/wang.png)           |                  ![进群](asset/qingke.png)                   |
-| :-----------------------------------------: | :----------------------------------------------------------: |
-| 合作&交流：如果您有成果想要分享，欢迎➕v联系 | 进群：如果您想加入技术交流群[社群列表](https://mp.weixin.qq.com/s/CXi5oCaT8pZqrATCmqhmAw)，欢迎添加小助手申请。 |
+| ![](https://raw.githubusercontent.com/qingkelab/.github/refs/heads/main/profile/staic/%E9%9D%92%E7%A8%9E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD.jpg) | ![](https://github.com/qingkelab/.github/blob/main/profile/staic/青稞AI.jpg?raw=true) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                    青稞具身智能技术交流群                    |                       青稞AI技术交流群                       |

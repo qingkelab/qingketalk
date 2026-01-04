@@ -8,7 +8,7 @@
 
 ### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  |[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
-- [青稞Talk](#青稞talk)
+- [青稞Talk](#青稞talk):[2026](#2026) [2025](#2025)
 - [青稞Tea](https://github.com/qingkelab/qingketea)
 - [经典大模型公开课第二季](#经典大模型公开课第二季)
 - [合作进群](#进群)
@@ -18,10 +18,26 @@
 
 ### 青稞Talk
 
+---
+
+#### 2026
+
+| 直播时间 |                    主讲人                     |                             主题                             | 直播/回放观看链接 | PPT  |
+| :------: | :-------------------------------------------: | :----------------------------------------------------------: | :---------------: | :--: |
+| 2026.1.6 | MiniMax算法工程师、通用模型后训练负责人程威宇 | [MiniMax M2.1](https://www.minimax.io/news/minimax-m21)：Agent 后训练经验与认知 |                   |      |
+
+---
+
+#### 2025
+
 |  直播时间  |                            主讲人                            |                             主题                             |                      直播/回放观看链接                       |                             PPT                              |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.12.09 |                  香港大学MMLab博士生吴成岳                   | [Fast-dLLM v2](https://arxiv.org/abs/2509.26328)：高效训练推理的块扩散大语言模型框架 |                                                              |               [link](https://t.zsxq.com/8Ejde)               |
-| 2025.12.06 |                      北京大学博士生陈康                      | 从 $π_0$ 到 [ $π_{RL}$](https://arxiv.org/abs/2510.25889)：面向流匹配 VLA 的强化学习后训练框架 |                                                              |               [link](https://t.zsxq.com/gXFFx)               |
+| 2025.12.26 |            [青稞‘s](https://qingkeai.online/2025)            |    [2025 “青稞” AI 嘉年华](https://qingkeai.online/2025)     |                                                              |                                                              |
+| 2025.12.20 |                   大厂研究科学家Yingru Li                    |             TRPO重生：大模型时代的信任域策略优化             |                                                              |                                                              |
+| 2025.12.16 |                  香港大学MMLab博士生陈俊松                   | [SANA-Series](https://github.com/NVlabs/Sana)：探索图像视频扩散模型的高效设计与加速 |           [H5](https://hcqnc.xetlk.com/sl/2zNpXW)            |               [link](https://t.zsxq.com/gcazM)               |
+| 2025.12.13 |       SeaAI Lab 研究工程师、新加坡国立大学博士生齐朋辉       |        从 BF16 到 FP16：如何解决RL训练-推理不匹配问题        |           [H5](https://hcqnc.xetlk.com/sl/2zwqkD)            |               [link](https://t.zsxq.com/jQn7S)               |
+| 2025.12.09 |                  香港大学MMLab博士生吴成岳                   | [Fast-dLLM v2](https://arxiv.org/abs/2509.26328)：高效训练推理的块扩散大语言模型框架 |           [H5](https://hcqnc.xetlk.com/sl/1EGpAv)            |               [link](https://t.zsxq.com/8Ejde)               |
+| 2025.12.06 |                      北京大学博士生陈康                      | 从 $π_0$ 到 [ $π_{RL}$](https://arxiv.org/abs/2510.25889)：面向流匹配 VLA 的强化学习后训练框架 | [H5](https://hcqnc.xetlk.com/sl/287wN1) [YouTube](https://youtu.be/ArPC04UdpbA) [Bilibili](https://www.bilibili.com/video/BV1Tt2sBPEix) |               [link](https://t.zsxq.com/gXFFx)               |
 | 2025.12.02 |              清华大学交叉信息研究院本科生臧宏之              | [RLinf-VLA](https://arxiv.org/pdf/2510.06710) 实践：从零上手 VLA（OpenVLA ）强化学习 | [H5](https://hcqnc.xetlk.com/sl/2WBBzy) [YouTube](https://youtu.be/RZ2S7GC5u1k) [Bilibili](https://www.bilibili.com/video/BV1CF24BcEwb) |               [link](https://t.zsxq.com/GrHfN)               |
 | 2025.11.29 |                     清华大学博士生张金涛                     | [SageAttention](https://github.com/thu-ml/SageAttention) & [Sparse-Linear Attention ](https://github.com/thu-ml/SLA)& [SpargeAttention](https://github.com/thu-ml/SpargeAttn)：通过量化与稀疏性实现高效注意力机制 | [H5](https://hcqnc.xetlk.com/sl/1iwWTZ) [YouTube](https://youtu.be/6VfR4td17ME) [Bilibili](https://www.bilibili.com/video/BV1d8UfB2EpP) |               [link](https://t.zsxq.com/MSi26)               |
 | 2025.11.25 |                    无问芯穹首席研究员林灏                    | [RLinf](https://github.com/RLinf/RLinf)：面向具身智能的“渲训推一体化”开源强化训练框架 | [H5](https://hcqnc.xetlk.com/sl/UryYx) [YouTube](https://youtu.be/dAcu-zl4y64) [Bilibili](https://www.bilibili.com/video/BV1mfSjBDEnS) |               [link](https://t.zsxq.com/m7HZ9)               |

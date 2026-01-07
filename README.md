@@ -9,10 +9,11 @@
 ### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  |[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
 - [青稞Talk](#青稞talk):[2026](#2026) [2025](#2025)
-- [青稞Tea](https://github.com/qingkelab/qingketea)
+- [青稞Meetup](https://github.com/qingkelab/qingketea)：[LLM Infra](https://luma.com/event/evt-B0HCZBXHbpJcNGn?from=embed) [RL Infra](https://luma.com/event/evt-QeAIs2bul3T3SYS?from=embed)
 - [经典大模型公开课第二季](#经典大模型公开课第二季)
 - [合作进群](#进群)
 - [加入青稞社区·知识星球](https://wx.zsxq.com/group/88882225285222)
+- 关注青稞：[公众号](https://qingkeai.online/upload/qingkeai.jpg) [视频号](https://qingkeai.online/upload/shipinhao-cixe.png) [小红书](https://www.xiaohongshu.com/user/profile/6533d7c30000000006007a53) [X](https://x.com/qingke_ai) [Bilibili](https://space.bilibili.com/3546619509213708) [YouTube](https://www.youtube.com/@QingKeAI/videos)
 
 ---
 

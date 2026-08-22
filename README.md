@@ -6,7 +6,7 @@
 
 ---
 
-### [青稞社区主页](https://qingkeai.online/)｜[H5链接](https://appodzjvyp51702.h5.xiaoeknow.com/)  |[关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
+### [青稞社区主页](https://qingkeai.online/) | [关于青稞](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
 - [青稞Talk](#青稞talk):[2026](#2026) [2025](#2025)
 - [青稞Meetup](https://github.com/qingkelab/qingketea)：[LLM Infra](https://luma.com/event/evt-B0HCZBXHbpJcNGn?from=embed) [RL Infra](https://luma.com/event/evt-QeAIs2bul3T3SYS?from=embed)
